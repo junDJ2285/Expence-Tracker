@@ -1,0 +1,21 @@
+.header{
+    box-shadow: -1px 0px 5px -1px;
+    margin: 4px 1px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aliceblue;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+
+}
+.header-lift{
+    
+        border-radius: 4px;
+        background-color: #3cd1aa;
+        padding: 0px 34px;
+        margin: 4px 32px;
+        box-shadow: -1px 0px 5px -1px;
+    
+
+}

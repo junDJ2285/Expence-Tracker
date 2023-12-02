@@ -1,0 +1,30 @@
+.layout{
+    margin: 0;
+    padding: 0;
+}
+.main-wraper{
+    height: 75vh;
+    padding-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+    /* background-color: azure; */
+}
+.mn-btn{
+    margin: 1px 4px;
+    font-weight: 500;
+    padding: 1px 20px !important;
+    background-color: #04c58fc2;
+    box-shadow: -1px 1px 3px -1px;
+    border: 1px solid gray;
+}
+.home-btn{
+    margin-top: 40px;
+    font-weight: 500;
+    padding: 1px 60px !important;
+    background-color: #04c58fc2;
+    box-shadow: -1px 1px 3px -1px;
+    border: 1px solid gray;
+}
